@@ -3,7 +3,7 @@
 Based on previous closing prices of stock, this model can predict upcoming closing prices.
 
 
-# Streamlit for WebApp
+## Streamlit for WebApp
 
 ### Installation:
 
